@@ -34,7 +34,7 @@
     "bootstrap": "^4.2.1",
     "core-js": "^2.5.4",
     "hammerjs": "^2.0.8",
-    "highcharts": "7.0.3",
+    "highcharts": "8.2.0",
     "highcharts-angular": "^2.4.0",
     "ng2-nouislider": "^1.7.13",
     "ngx-loading": "^3.0.1",
